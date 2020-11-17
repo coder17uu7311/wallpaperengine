@@ -1,0 +1,249 @@
+2020-08-28T10:31:09Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/welcome
+2020-08-28T10:31:09Z: Enter Run.
+2020-08-28T10:31:10Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:31:10Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:31:11Z: Received IPC message from main process: 200
+2020-08-28T10:31:17Z: Exit Run.
+2020-08-28T10:31:17Z: UI CEF shutdown
+2020-08-28T10:31:17Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-08-28T10:31:17Z: Enter Run.
+2020-08-28T10:31:17Z: Steam init successful: 0
+2020-08-28T10:31:17Z: Steamworks init failed.
+2020-08-28T10:31:17Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:31:17Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:31:32Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:31:51Z: Exit Run.
+2020-08-28T10:31:51Z: UI CEF shutdown
+2020-08-28T10:33:03Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-08-28T10:33:03Z: Enter Run.
+2020-08-28T10:33:03Z: Steam init successful: 0
+2020-08-28T10:33:03Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:33:03Z: Steamworks init failed.
+2020-08-28T10:33:03Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:33:18Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T10:34:19Z: Exit Run.
+2020-08-28T10:34:19Z: UI CEF shutdown
+2020-08-28T16:43:58Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-08-28T16:43:59Z: Enter Run.
+2020-08-28T16:43:59Z: Steam init successful: 0
+2020-08-28T16:43:59Z: Steamworks init failed.
+2020-08-28T16:44:00Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T16:44:01Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-28T16:44:05Z: Exit Run.
+2020-08-28T16:44:05Z: UI CEF shutdown
+2020-08-31T10:37:23Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-08-31T10:37:23Z: Enter Run.
+2020-08-31T10:37:23Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-31T10:37:23Z: Steam init successful: 0
+2020-08-31T10:37:23Z: Steamworks init failed.
+2020-08-31T10:37:24Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-31T10:37:38Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-31T10:37:46Z: Exit Run.
+2020-08-31T10:37:46Z: UI CEF shutdown
+2020-08-31T17:48:20Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-08-31T17:48:21Z: Enter Run.
+2020-08-31T17:48:21Z: Steam init successful: 0
+2020-08-31T17:48:21Z: Steamworks init failed.
+2020-08-31T17:48:23Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-31T17:48:23Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-08-31T17:48:35Z: Exit Run.
+2020-08-31T17:48:36Z: UI CEF shutdown
+2020-09-01T07:47:46Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-01T07:47:47Z: Enter Run.
+2020-09-01T07:47:47Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-01T07:47:47Z: Steam init successful: 0
+2020-09-01T07:47:47Z: Steamworks init failed.
+2020-09-01T07:47:47Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-01T07:48:01Z: Exit Run.
+2020-09-01T07:48:02Z: UI CEF shutdown
+2020-09-01T10:00:45Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-01T10:00:46Z: Enter Run.
+2020-09-01T10:00:46Z: Steam init successful: 0
+2020-09-01T10:00:46Z: Steamworks init failed.
+2020-09-01T10:00:48Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-01T10:00:48Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-01T10:01:01Z: Open URL: file:///C:\Users\newze\Desktop\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-01T10:04:09Z: Exit Run.
+2020-09-01T10:04:10Z: UI CEF shutdown
+2020-09-17T12:22:35Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-17T12:22:39Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-17T12:22:41Z: Enter Run.
+2020-09-17T12:22:41Z: Steam init successful: 0
+2020-09-17T12:22:41Z: Steamworks init failed.
+2020-09-17T12:22:44Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-17T12:22:54Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-17T12:23:01Z: Exit Run.
+2020-09-17T12:23:02Z: UI CEF shutdown
+2020-09-18T17:49:59Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-18T17:50:03Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T17:50:05Z: Enter Run.
+2020-09-18T17:50:05Z: Steam init successful: 0
+2020-09-18T17:50:05Z: Steamworks init failed.
+2020-09-18T17:50:08Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T17:50:18Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T17:50:38Z: Exit Run.
+2020-09-18T17:50:39Z: UI CEF shutdown
+2020-09-18T18:03:50Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-18T18:03:50Z: Enter Run.
+2020-09-18T18:03:50Z: Steam init successful: 0
+2020-09-18T18:03:50Z: Steamworks init failed.
+2020-09-18T18:03:50Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T18:03:50Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T18:04:05Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T18:05:36Z: Exit Run.
+2020-09-18T18:05:36Z: UI CEF shutdown
+2020-09-18T21:06:09Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-18T21:06:10Z: Enter Run.
+2020-09-18T21:06:10Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T21:06:11Z: Steam init successful: 0
+2020-09-18T21:06:11Z: Steamworks init failed.
+2020-09-18T21:06:11Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T21:06:25Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-18T21:07:42Z: Exit Run.
+2020-09-18T21:07:42Z: UI CEF shutdown
+2020-09-19T18:43:04Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-19T18:43:06Z: Enter Run.
+2020-09-19T18:43:06Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-19T18:43:06Z: Steam init successful: 0
+2020-09-19T18:43:06Z: Steamworks init failed.
+2020-09-19T18:43:06Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-19T18:43:22Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-19T18:43:27Z: Exit Run.
+2020-09-19T18:43:29Z: UI CEF shutdown
+2020-09-20T18:28:17Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-20T18:28:17Z: Enter Run.
+2020-09-20T18:28:17Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-20T18:28:17Z: Steam init successful: 0
+2020-09-20T18:28:17Z: Steamworks init failed.
+2020-09-20T18:28:18Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-20T18:28:28Z: Exit Run.
+2020-09-20T18:28:29Z: UI CEF shutdown
+2020-09-22T09:23:12Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-22T09:23:13Z: Enter Run.
+2020-09-22T09:23:13Z: Steam init successful: 0
+2020-09-22T09:23:13Z: Steamworks init failed.
+2020-09-22T09:23:13Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-22T09:23:13Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-22T09:23:28Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-22T09:23:47Z: Exit Run.
+2020-09-22T09:23:48Z: UI CEF shutdown
+2020-09-25T15:01:38Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-25T15:01:39Z: Enter Run.
+2020-09-25T15:01:39Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-25T15:01:39Z: Steam init successful: 0
+2020-09-25T15:01:39Z: Steamworks init failed.
+2020-09-25T15:01:39Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-25T15:01:50Z: Exit Run.
+2020-09-25T15:01:50Z: UI CEF shutdown
+2020-09-26T16:07:13Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-26T16:07:14Z: Enter Run.
+2020-09-26T16:07:14Z: Steam init successful: 0
+2020-09-26T16:07:14Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:07:14Z: Steamworks init failed.
+2020-09-26T16:07:14Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:07:29Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:10:23Z: Exit Run.
+2020-09-26T16:10:23Z: UI CEF shutdown
+2020-09-26T16:11:42Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-26T16:11:42Z: Enter Run.
+2020-09-26T16:11:42Z: Steam init successful: 0
+2020-09-26T16:11:42Z: Steamworks init failed.
+2020-09-26T16:11:42Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:11:42Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:11:54Z: Exit Run.
+2020-09-26T16:11:54Z: UI CEF shutdown
+2020-09-26T16:13:21Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-26T16:13:21Z: Enter Run.
+2020-09-26T16:13:21Z: Steam init successful: 0
+2020-09-26T16:13:21Z: Steamworks init failed.
+2020-09-26T16:13:21Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:13:21Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:13:36Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T16:17:49Z: Exit Run.
+2020-09-26T16:17:50Z: UI CEF shutdown
+2020-09-26T18:41:35Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-26T18:41:36Z: Enter Run.
+2020-09-26T18:41:36Z: Steam init successful: 0
+2020-09-26T18:41:36Z: Steamworks init failed.
+2020-09-26T18:41:36Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T18:41:37Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T18:41:51Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T18:43:11Z: Exit Run.
+2020-09-26T18:43:11Z: UI CEF shutdown
+2020-09-26T19:26:07Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-26T19:26:07Z: Enter Run.
+2020-09-26T19:26:07Z: Steam init successful: 0
+2020-09-26T19:26:07Z: Steamworks init failed.
+2020-09-26T19:26:07Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T19:26:07Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T19:26:22Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T19:27:23Z: Exit Run.
+2020-09-26T19:27:23Z: UI CEF shutdown
+2020-09-26T22:05:08Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-09-26T22:05:08Z: Enter Run.
+2020-09-26T22:05:08Z: Steam init successful: 0
+2020-09-26T22:05:08Z: Steamworks init failed.
+2020-09-26T22:05:08Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T22:05:09Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T22:05:23Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-09-26T22:06:08Z: Exit Run.
+2020-09-26T22:06:08Z: UI CEF shutdown
+2020-10-01T09:05:07Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-10-01T09:05:08Z: Enter Run.
+2020-10-01T09:05:08Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T09:05:08Z: Steam init successful: 0
+2020-10-01T09:05:08Z: Steamworks init failed.
+2020-10-01T09:05:08Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T09:05:23Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T09:05:23Z: Exit Run.
+2020-10-01T09:05:24Z: UI CEF shutdown
+2020-10-01T10:08:47Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-10-01T10:08:47Z: Enter Run.
+2020-10-01T10:08:47Z: Steam init successful: 0
+2020-10-01T10:08:47Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T10:08:47Z: Steamworks init failed.
+2020-10-01T10:08:47Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T10:09:03Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T10:09:37Z: Exit Run.
+2020-10-01T10:09:37Z: UI CEF shutdown
+2020-10-01T15:08:22Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-10-01T15:08:23Z: Enter Run.
+2020-10-01T15:08:23Z: Steam init successful: 0
+2020-10-01T15:08:23Z: Steamworks init failed.
+2020-10-01T15:08:25Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T15:08:25Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-01T15:08:29Z: Exit Run.
+2020-10-01T15:08:29Z: UI CEF shutdown
+2020-10-03T19:47:40Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-10-03T19:47:41Z: Enter Run.
+2020-10-03T19:47:41Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-03T19:47:41Z: Steam init successful: 0
+2020-10-03T19:47:41Z: Steamworks init failed.
+2020-10-03T19:47:41Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-03T19:47:52Z: Exit Run.
+2020-10-03T19:47:52Z: UI CEF shutdown
+2020-10-03T20:43:01Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-10-03T20:43:02Z: Enter Run.
+2020-10-03T20:43:02Z: Steam init successful: 0
+2020-10-03T20:43:02Z: Steamworks init failed.
+2020-10-03T20:43:03Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-03T20:43:04Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-03T20:43:08Z: Exit Run.
+2020-10-03T20:43:09Z: UI CEF shutdown
+2020-10-04T10:56:26Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-10-04T10:56:27Z: Enter Run.
+2020-10-04T10:56:28Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-04T10:56:28Z: Steam init successful: 0
+2020-10-04T10:56:28Z: Steamworks init failed.
+2020-10-04T10:56:30Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-04T10:56:35Z: Exit Run.
+2020-10-04T10:56:36Z: UI CEF shutdown
+2020-10-06T19:12:06Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/browsewallpapers
+2020-10-06T19:12:07Z: Enter Run.
+2020-10-06T19:12:07Z: Steam init successful: 0
+2020-10-06T19:12:07Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-06T19:12:07Z: Steamworks init failed.
+2020-10-06T19:12:07Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-06T19:12:22Z: Open URL: file:///C:\Users\newze\OneDrive\Masaüstü\Wallpaper Engine Saglamindir.net\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3#/
+2020-10-06T19:12:23Z: Exit Run.
+2020-10-06T19:12:23Z: UI CEF shutdown

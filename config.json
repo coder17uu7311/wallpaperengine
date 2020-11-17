@@ -1,0 +1,229 @@
+{
+	"newze" : 
+	{
+		"general" : 
+		{
+			"browser" : 
+			{
+				"advertiseexplore" : true,
+				"advertiseworkshop" : true,
+				"advertiseworkshoppopup" : true,
+				"explore" : 
+				{
+					"custom" : [],
+					"disliked" : [],
+					"favorites" : [],
+					"liked" : []
+				},
+				"folders" : [],
+				"viewiconsize" : "medium",
+				"viewopacity" : 100
+			},
+			"editor" : 
+			{
+				"previewratio" : "free",
+				"recentfiles" : [],
+				"showgrid" : true,
+				"showonstartup" : true,
+				"showselectionbox" : true,
+				"showstats" : false
+			},
+			"localfiles" : 
+			[
+				"C:/Users/newze/Downloads/mylivewallpapers.com-Snow-Emilia-ReZero-2K.mp4",
+				"C:/Users/newze/Downloads/mylivewallpapers.com-Darth-Vader-Rain.mp4",
+				"C:/Users/newze/Downloads/mylivewallpapers.com-Aeolian.mp4",
+				"C:/Users/newze/Downloads/mylivewallpapers.com-Luo-Tianyi.mp4",
+				"C:/Users/newze/Downloads/mylivewallpapers.com-Fishing-on-the-Moon.mp4",
+				"C:/Users/newze/Downloads/mylivewallpapers.com-Snow-Warrior.mp4",
+				"C:/Users/newze/Downloads/mylivewallpapers.com-Courtyard-Onmyoji.mp4"
+			],
+			"user" : 
+			{
+				"adjustdwmcolor" : false,
+				"adjustdwmcolormode" : "disabled",
+				"apprules" : null,
+				"audioinputdevice" : "default",
+				"audioinputvolume" : 50,
+				"autostart" : false,
+				"autostartscheduler" : false,
+				"autostartx64" : false,
+				"bloom" : true,
+				"cefcommandline" : "",
+				"fps" : 15,
+				"graphicsapi" : "dxgi",
+				"hasshownwelcomedialog" : true,
+				"iconopacity" : 100,
+				"language" : "default",
+				"loglevel" : "error",
+				"logtofileenabled" : true,
+				"monitordetection" : "devicepath",
+				"msaa" : "x2",
+				"playbackaudio" : "run",
+				"playbackfocus" : "run",
+				"playbackfullscreen" : "pause",
+				"playbackmaximized" : "pause",
+				"playbackonbattery" : "run",
+				"playbacksleep" : "stop",
+				"plugins" : null,
+				"preset" : "medium",
+				"processpriority" : "normal",
+				"reflection" : true,
+				"resolution" : "full",
+				"safemode" : true,
+				"steamlanguage" : "english",
+				"uicmd" : "",
+				"unpauseaero" : true,
+				"videoaudiooutput" : true,
+				"videohardwareacceleration" : true,
+				"videoloopmode" : "default",
+				"videoreadmode" : "fromdisk",
+				"windows7mode" : "compatibility",
+				"windowupdaterate" : 1000
+			},
+			"wallpaperconfig" : 
+			{
+				"layout" : 0,
+				"profile" : null,
+				"selectedwallpapers" : 
+				{
+					"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Users/newze/Downloads/mylivewallpapers.com-Aeolian.mp4",
+						"local" : true
+					}
+				}
+			},
+			"wallpaperconfigrecent" : 
+			[
+				{
+					"config" : 
+					{
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Desktop/Wallpaper Engine Saglamindir.net/projects/defaultprojects/ricepod/ricepod.json"
+							}
+						}
+					},
+					"title" : "Ricepod"
+				},
+				{
+					"config" : 
+					{
+						"layout" : null,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Desktop/Wallpaper Engine Saglamindir.net/projects/defaultprojects/ricepod/ricepod.json"
+							}
+						}
+					},
+					"title" : "Ricepod"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Downloads/mylivewallpapers.com-Snow-Emilia-ReZero-2K.mp4",
+								"local" : true
+							}
+						}
+					},
+					"title" : "mylivewallpapers.com-Snow-Emilia-ReZero-2K.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Downloads/mylivewallpapers.com-Darth-Vader-Rain.mp4",
+								"local" : true
+							}
+						}
+					},
+					"title" : "mylivewallpapers.com-Darth-Vader-Rain.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Downloads/mylivewallpapers.com-Luo-Tianyi.mp4",
+								"local" : true
+							}
+						}
+					},
+					"title" : "mylivewallpapers.com-Luo-Tianyi.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Downloads/mylivewallpapers.com-Fishing-on-the-Moon.mp4",
+								"local" : true
+							}
+						}
+					},
+					"title" : "mylivewallpapers.com-Fishing-on-the-Moon.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Downloads/mylivewallpapers.com-Courtyard-Onmyoji.mp4",
+								"local" : true
+							}
+						}
+					},
+					"title" : "mylivewallpapers.com-Courtyard-Onmyoji.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22D3#5&10dc6ff1&0&UID1048833#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Users/newze/Downloads/mylivewallpapers.com-Aeolian.mp4",
+								"local" : true
+							}
+						}
+					},
+					"title" : "mylivewallpapers.com-Aeolian.mp4"
+				}
+			]
+		},
+		"version" : 1,
+		"wallpaperproperties" : null
+	}
+}

@@ -1,0 +1,10 @@
+# Kurulumu baþlatmadan önce antivirüs programýnýzý devredýþý býrakýn.
+
+# Rar klasöründe bulunan installer simgesini sað týklayýp yönetici olarak çalýþtýrarak oyunu kurun.
+
+# Kurulum tamamlandýktan sonra antivirüs programýnýzý aktif hale getirebilirsiniz.
+
+# Masaüstünde oluþan kýsayolu sað týklayýp yönetici olarak çalýþtýrarak oyuna giriþ yapabilirsiniz.
+
+
+https://saglamindir.net
